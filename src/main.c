@@ -1,6 +1,6 @@
 #include "../raylib/raylib.h"
 
-#define CABELA_MODEL "src/model/cabela.glb"
+#define CABELA_MODEL "assets/cabela.glb"
 
 int main(void) {
 
