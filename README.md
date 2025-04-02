@@ -6,4 +6,4 @@
 - Have the swaggiest Screensaver ever
 - Cabela
 
-<img align="center" src="cabela_screensaver.mp4">
+<img align="center" src="cabela_screensaver.gif">
